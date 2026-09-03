@@ -1,0 +1,50 @@
+﻿nome;formula;massa_molar;ea_k;diametro_colisao;polar
+Acetileno;C2H2;26.04;185;4.221;False
+Ar;;28.96;97;3.617;False
+Argônio;Ar;39.95;124;3.418;False
+Arsina;AsH3;77.95;281;4.06;True
+Benzeno;C6H6;78.11;440;5.270;False
+Bromo;Br2;159.81;520;4.268;False
+i-Butano;C4H10;58.12;313;5.341;False
+n-Butano;C4H10;58.12;410;4.997;False
+Dióxido de carbono;CO2;44.01;190;3.996;False
+Dissulfeto de carbono;CS2;76.13;488;4.438;False
+Monóxido de carbono;CO;28.01;110;3.590;True
+Tetracloreto de carbono;CCl4;153.82;327;5.881;False
+Sulfeto de carbonila;COS;60.07;335;4.13;True
+Cloro;Cl2;70.91;357;4.115;False
+Clorofórmio;CHCl3;119.38;327;5.430;True
+Cianogênio;C2N2;52.04;339;4.38;False
+Ciclohexano;C6H12;84.12;324;6.093;False
+Etano;C2H6;30.07;230;4.418;False
+Etanol;C2H5OH;46;391;4.455;True
+Etileno;C2H6;28.05;205;4.232;False
+Flúor;F2;38;112;3.653;False
+Hélio;He;4;10.22;2.576;False
+n-Heptano;C7H16;100.21;282;8.88;False
+n-Hexano;C6H14;86.18;413;5.909;False
+Hidrogênio;H2;2;33.3;2.968;False
+Cloreto de hidrogênio;HCl;36.46;360;3.305;True
+Iodeto de hidrogênio;HI;128;324;4.123;True
+Iodo;I2;253.81;550;4.982;False
+Kriptônio;Kr;83.80;190;3.60;False
+Metano;CH4;16.04;136.5;3.822;False
+Metanol;CH3OH;32.04;507;3.585;True
+Diclorometano;CH2Cl2;84.93;406;4.759;True
+Clorometano;CH3Cl;50.49;855;3.375;True
+Iodeto de Mercúrio;HgI2;454.40;691;5.625;True
+Mercúrio;Hg;200.59;851;2.898;False
+Neônio;Ne;20.18;35.7;2.789;False
+Óxido nítrico;NO;30.01;119;3.470;True
+Nitrogênio;N2;28;91.5;3.681;False
+Óxido Nitroso;N2O;44.01;220;3.879;True
+n-Nonano;C9H20;128.26;240;8.448;False
+n-Octano;C8H18;114.23;320;7.451;False
+Oxigênio;O2;32;113;3.433;False
+n-Pentano;C5H12;72.15;345;5.769;False
+Propano;C3H8;44.10;254;5.061;False
+Silano;SiH4;32.12;207.6;4.08;False
+Tetracloreto de silício;SiCl4;169.90;358;5.08;False
+Dióxido de enxofre;SO2;64.07;252;4.290;True
+Água;H2O;18.015;356;2.649;True
+Xenônio;Xe;131.29;229;4.055;False

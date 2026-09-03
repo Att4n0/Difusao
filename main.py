@@ -1,16 +1,29 @@
+import os
+import subprocess
 import pandas as pd
 
 dados = pd.read_csv(
-    "dados/substancias.csv",
+    "dados/tabelak2.csv",
     sep=";",
     decimal="."
 )
 
-nome = input("Digite o nome da substância: ").strip().lower()
+def limpa_tela():
+    if os.name == 'nt':
+        subprocess.run('cls', shell=True)
+    else:
+        subprocess.run(['clear'])
 
-substancia = dados[dados["nome"].str.strip().str.lower() == nome]
+def encontrar_substancia():
+    nome = input("Digite o nome da substância: ").strip().lower()
 
-if substancia.empty:
-    print("Substância não encontrada.")
-else:
-    print(substancia)
+    substancia = dados[dados["nome"].str.strip().str.lower() == nome]
+
+    if substancia.empty:
+        print("Substância não encontrada.")
+    else:
+        print(substancia)
+
+if __name__ == '__main__':
+    limpa_tela()
+    encontrar_substancia()
